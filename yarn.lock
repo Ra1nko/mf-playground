@@ -6966,10 +6966,10 @@ simple-swizzle@^0.2.2:
   dependencies:
     is-arrayish "^0.3.1"
 
-single-spa-vue@^1.5.2:
-  version "1.8.2"
-  resolved "https://registry.yarnpkg.com/single-spa-vue/-/single-spa-vue-1.8.2.tgz#16a5eb6e6e0c4cbb35cd2736b81f78ffabc5fcc2"
-  integrity sha512-31rNJjyVWPlO+OZATL8tGP/R+PN7q0Kiw08BOxBkPYEqbO1jZLlJ/18+hshsT9kfzqnUT2TyNKjj8TLWM9GRFA==
+single-spa-vue@1.5.2:
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/single-spa-vue/-/single-spa-vue-1.5.2.tgz#e4381298d5739ffdfc8b7d6eada6ab627f765024"
+  integrity sha512-sE6f93RGqEgs/6pmdDdqUJE1G6EC+07IJSZsRlsytbO/xuiPcTQ1DdHhZNbmYGI8EV72DNzHerZGKbHCAg5ZvA==
 
 slash@^1.0.0:
   version "1.0.0"
@@ -7401,10 +7401,10 @@ svgo@^1.0.0:
     unquote "~1.1.1"
     util.promisify "~1.0.0"
 
-systemjs-webpack-interop@^1.1.0:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/systemjs-webpack-interop/-/systemjs-webpack-interop-1.2.1.tgz#70cce64a93ff646f52344eb560288d83362c9695"
-  integrity sha512-tNj9dACkQlNSAC+7d0MKwebXNt7M/3WDiQ0uj/1stBK061eSyaAlMcgp9t3EkYYrDp1ivxzAM4YhDCqPoai8Gg==
+systemjs-webpack-interop@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/systemjs-webpack-interop/-/systemjs-webpack-interop-1.1.0.tgz#44bbc7cb4a0fede64105544bb52eb5fcb025c8b8"
+  integrity sha512-qQNtslusbmCWgvHxhVF6QgBuiiVvE/Xp21oGuVBYsrLFujHDz1V/wa2XU1jKsDpp40LGKRsObim66jlg6nlTbQ==
 
 table@^5.2.3:
   version "5.4.6"
@@ -8196,9 +8196,9 @@ xtend@^4.0.0, xtend@~4.0.1:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yallist@^2.1.2:
   version "2.1.2"
