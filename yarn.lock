@@ -6272,9 +6272,9 @@ postcss-value-parser@^4.0.2, postcss-value-parser@^4.1.0:
   integrity sha512-97DXOFbQJhk71ne5/Mt6cOu6yxsSfM0QGQyl0L25Gca4yGWEGJaig7l7gbCX623VqTBNGLRLaVUCnNkcedlRSQ==
 
 postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.27, postcss@^7.0.32, postcss@^7.0.5, postcss@^7.0.6:
-  version "7.0.32"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.32.tgz#4310d6ee347053da3433db2be492883d62cec59d"
-  integrity sha512-03eXong5NLnNCD05xscnGKGDZ98CyzoqPSMjOe6SuoQY7Z2hIj0Ld1g/O/UQRuOle2aRtiIRDg9tDcTGAkLfKw==
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
+  integrity sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
@@ -6966,10 +6966,10 @@ simple-swizzle@^0.2.2:
   dependencies:
     is-arrayish "^0.3.1"
 
-single-spa-vue@^1.5.2:
-  version "1.8.2"
-  resolved "https://registry.yarnpkg.com/single-spa-vue/-/single-spa-vue-1.8.2.tgz#16a5eb6e6e0c4cbb35cd2736b81f78ffabc5fcc2"
-  integrity sha512-31rNJjyVWPlO+OZATL8tGP/R+PN7q0Kiw08BOxBkPYEqbO1jZLlJ/18+hshsT9kfzqnUT2TyNKjj8TLWM9GRFA==
+single-spa-vue@1.5.2:
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/single-spa-vue/-/single-spa-vue-1.5.2.tgz#e4381298d5739ffdfc8b7d6eada6ab627f765024"
+  integrity sha512-sE6f93RGqEgs/6pmdDdqUJE1G6EC+07IJSZsRlsytbO/xuiPcTQ1DdHhZNbmYGI8EV72DNzHerZGKbHCAg5ZvA==
 
 slash@^1.0.0:
   version "1.0.0"
@@ -7401,10 +7401,10 @@ svgo@^1.0.0:
     unquote "~1.1.1"
     util.promisify "~1.0.0"
 
-systemjs-webpack-interop@^1.1.0:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/systemjs-webpack-interop/-/systemjs-webpack-interop-1.2.1.tgz#70cce64a93ff646f52344eb560288d83362c9695"
-  integrity sha512-tNj9dACkQlNSAC+7d0MKwebXNt7M/3WDiQ0uj/1stBK061eSyaAlMcgp9t3EkYYrDp1ivxzAM4YhDCqPoai8Gg==
+systemjs-webpack-interop@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/systemjs-webpack-interop/-/systemjs-webpack-interop-1.1.0.tgz#44bbc7cb4a0fede64105544bb52eb5fcb025c8b8"
+  integrity sha512-qQNtslusbmCWgvHxhVF6QgBuiiVvE/Xp21oGuVBYsrLFujHDz1V/wa2XU1jKsDpp40LGKRsObim66jlg6nlTbQ==
 
 table@^5.2.3:
   version "5.4.6"
